@@ -16,6 +16,9 @@
   "flags": {
     "canUpload": true
   },
+  "url": "https://github.com/Kalltern/Redsteel-Quickplay-Adventure",
+  "manifest": "https://raw.githubusercontent.com/Kalltern/Redsteel-Quickplay-Adventure/main/module.json",
+  "download": "https://github.com/Kalltern/Redsteel-Quickplay-Adventure/archive/refs/heads/main.zip",
   "packs": [
     {
       "name": "Redsteel-quickplay-adventure",
