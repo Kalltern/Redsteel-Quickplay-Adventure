@@ -1,0 +1,7 @@
+2026/04/29-20:06:12.393 34b4 Recovering log #42
+2026/04/29-20:06:12.395 34b4 Delete type=0 #42
+2026/04/29-20:06:12.396 34b4 Delete type=3 #40
+2026/04/29-20:06:19.662 2940 Level-0 table #48: started
+2026/04/29-20:06:19.662 2940 Level-0 table #48: 0 bytes OK
+2026/04/29-20:06:19.662 2940 Delete type=0 #46
+2026/04/29-20:06:19.662 2940 Manual compaction at level-0 from '!adventures!IxRjWeZ2MJQkAFNM' @ 72057594037927935 : 1 .. '!adventures!IxRjWeZ2MJQkAFNM' @ 0 : 0; will stop at (end)
