@@ -1,0 +1,34 @@
+{
+  "id": "redsteel-quickplay-adventure",
+  "title": "Redsteel - Quickplay Adventure",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Kalltern",
+      "discord": "Kalltern",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "Redsteel-quickplay-adventure",
+      "label": "Redsteel - quickplay - adventure",
+      "path": "packs/Redsteel-quickplay-adventure",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "redsteel",
+      "flags": {}
+    }
+  ],
+  "description": ""
+}
